@@ -21,7 +21,7 @@ In this project:
 - MFA is enabled for user accounts
 - This helps prevent unauthorized access even if credentials are compromised
 
-- ## Conditional Access Limitation (Project Context)
+## Conditional Access Limitation (Project Context)
 
 Conditional Access requires Azure AD Premium licensing.
 
