@@ -20,3 +20,15 @@ Even if an attacker obtains valid credentials, they cannot access the account wi
 In this project:
 - MFA is enabled for user accounts
 - This helps prevent unauthorized access even if credentials are compromised
+
+- ## Conditional Access Limitation (Project Context)
+
+Conditional Access requires Azure AD Premium licensing.
+
+In this project:
+- Conditional Access was not implemented due to licensing limitations
+- However, the design assumes that Conditional Access policies would:
+  - Require MFA for risky logins
+  - Restrict access based on location or device
+
+This demonstrates understanding of real-world IAM architecture despite lab constraints.
