@@ -4,8 +4,9 @@
 Multiple failed login attempts followed by a successful login.
 
 ## Why this is suspicious
-- Indicates possible brute-force or credential stuffing attack
-- Suggests attacker may have guessed or obtained valid credentials
+- Multiple failed login attempts indicate possible brute-force or credential guessing
+- A successful login immediately after suggests the attacker may have obtained valid credentials
+- The transition from repeated failures to success within a short time window is a strong indicator of compromise
 
 ## Detection Logic (SIEM-style)
 - Identify multiple failed login attempts for a user within a short time window
