@@ -32,3 +32,14 @@ In this project:
   - Restrict access based on location or device
 
 This demonstrates understanding of real-world IAM architecture despite lab constraints.
+
+## Suspicious Login Pattern (Failure → Success)
+
+A sequence of multiple failed login attempts followed by a successful login is a strong indicator of potential compromise.
+
+This pattern suggests:
+- Credential guessing or brute-force attempts
+- Eventual access using valid credentials
+- High-risk activity requiring investigation
+
+In a real environment, this would trigger a SIEM alert for further analysis.
