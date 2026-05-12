@@ -10,7 +10,11 @@ The focus is on:
 - SIEM-style detection logic
 
 ---
+## Architecture
 
+![Suspicious Cloud Login Detection](architecture/suspicious_cloud_login_github.svg)
+
+---
 ## Scenario
 
 A finance user account (`bob.finance`) is targeted by an attacker.
