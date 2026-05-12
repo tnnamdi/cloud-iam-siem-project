@@ -1,4 +1,4 @@
-# Detecting Suspicious Cloud Logins with IAM Controls
+# Detecting Compromised Cloud Identities with SIEM and IAM
 
 ## Objective
 
