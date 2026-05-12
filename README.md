@@ -15,6 +15,16 @@ The focus is on:
 ![Suspicious Cloud Login Detection](architecture/suspicious_cloud_login_github.svg)
 
 ---
+## Technologies Used
+
+* Microsoft Entra ID
+* Azure Sign-in Logs
+* Multi-Factor Authentication (MFA)
+* Role-Based Access Control (RBAC)
+* IAM Concepts
+* Security Monitoring
+* SIEM-Style Detection Logic
+---
 ## Scenario
 
 A finance user account (`bob.finance`) is targeted by an attacker.
