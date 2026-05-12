@@ -99,6 +99,19 @@ This pattern is a strong indicator of:
 
 ---
 
+## Skills Demonstrated
+
+* IAM and RBAC concepts
+* MFA security controls
+* Cloud identity monitoring
+* Log analysis and event correlation
+* SIEM-style detection thinking
+* Security monitoring workflows
+* Operational risk awareness
+* Technical documentation
+
+---
+
 ## Key Takeaways
 
 - Identity is a primary attack surface in cloud environments
