@@ -138,7 +138,8 @@ This pattern is a strong indicator of:
 
 ## Screenshots
 
-See `/screenshots` folder for:
+Relevant screenshots can be found in the `/screenshots` folder, including:
+
 - Entra ID setup
 - Users and groups
 - MFA configuration
